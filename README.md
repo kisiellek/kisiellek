@@ -11,6 +11,9 @@ My name is Szymon, and I'm currently in my second year pursuing a degree in Comp
 - skiing 🎿
 - programming and algorithms 💻
 
+## Projects
+-[Algorithms and Structures] - Implementations of popular sorting, graphs, dynamic and greedy algorithms.
+
 <!--
 **kisiellek/kisiellek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
