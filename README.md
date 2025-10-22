@@ -12,8 +12,9 @@ My name is Szymon, and I'm currently in my second year pursuing a degree in Comp
 - programming and algorithms 💻
 
 ## Projects
-- [Data Structures and Algorithms](https://github.com/kisiellek/Data-Structures-and-Algorithms) - Implementations of popular sorting, graphs, dynamic and greedy algorithms.
 - [AutoReferee](https://github.com/kisiellek/AutoReferee) - YOLOv8 + OpenCV (Python): detects a football and auto-counts goals when the ball crosses a user-defined line in video.
+- [Data Structures and Algorithms](https://github.com/kisiellek/Data-Structures-and-Algorithms) - Implementations of popular sorting, graphs, dynamic and greedy algorithms.
+
 
 <!--
 **kisiellek/kisiellek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
