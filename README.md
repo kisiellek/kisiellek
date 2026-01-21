@@ -12,6 +12,7 @@ My name is Szymon, and I'm currently in my second year pursuing a degree in Comp
 - programming and algorithms 💻
 
 ## Projects
+- [PKOFutureIndex](https://github.com/Maikonroonie/Hacknation) - AI-driven Business Intelligence system for the banking sector to forecast economictrends.
 - [AutoReferee](https://github.com/kisiellek/AutoReferee) - YOLOv8 + OpenCV (Python): detects a football and auto-counts goals when the ball crosses a user-defined line in video.
 - [Data Structures and Algorithms](https://github.com/kisiellek/Data-Structures-and-Algorithms) - Implementations of popular sorting, graphs, dynamic and greedy algorithms.
 
